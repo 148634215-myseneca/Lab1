@@ -14,4 +14,3 @@ def calculate_age():
 
 # Call the function
 calculate_age()
-
